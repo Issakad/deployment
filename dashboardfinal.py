@@ -57,7 +57,7 @@ from sklearn import model_selection
 
 
 import shap
-from streamlit_shap import st_shap
+#from streamlit_shap import st_shap
 shap.initjs()
 
 #Import du modèle entrainé et des données pré-traitées
